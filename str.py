@@ -8,7 +8,6 @@ if(b>c):
     g=e[s:]
 if(b<c):
     g=f[s:]
-print(g)
 d=0
 if(b>c):
     for i in range(len(g)):
